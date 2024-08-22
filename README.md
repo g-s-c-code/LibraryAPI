@@ -48,6 +48,8 @@ This project demonstrates a RESTful API built with ASP.NET Core 8, Dapper and SQ
 |:-------------------------:|
 | <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/g-s-c-code/LibraryAPI/main/Images/dapper.png" width="400px" /> |
 
+<br>
+
 ## Usage
 
 You can choose to run either project depending on your needs:
