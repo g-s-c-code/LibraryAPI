@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryAPI.EFCore", "LibraryAPI.EFCore\LibraryAPI.EFCore.csproj", "{3B9CA847-3003-4089-AB3B-BCFE6CFA3C34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAPI.Dapper", "LibraryAPI.Dapper\LibraryAPI.Dapper.csproj", "{53F8545E-9192-4070-A65D-159DFC9D3969}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryAPI.Dapper", "LibraryAPI.Dapper\LibraryAPI.Dapper.csproj", "{53F8545E-9192-4070-A65D-159DFC9D3969}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
