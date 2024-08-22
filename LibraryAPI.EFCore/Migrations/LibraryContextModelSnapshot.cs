@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace LibraryAPI.Migrations
+namespace LibraryAPI.EFCore.Migrations
 {
     [DbContext(typeof(LibraryContext))]
     partial class LibraryContextModelSnapshot : ModelSnapshot
@@ -16,7 +16,7 @@ namespace LibraryAPI.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0")
+                .HasAnnotation("ProductVersion", "9.0.0-preview.7.24405.3")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
