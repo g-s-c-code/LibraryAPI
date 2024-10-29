@@ -26,4 +26,8 @@
     <Folder Include="Migrations\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LibraryAPI.ServiceDefaults\LibraryAPI.ServiceDefaults.csproj" />
+  </ItemGroup>
+
 </Project>

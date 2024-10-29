@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryAPI.EFCore", "Librar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryAPI.Dapper", "LibraryAPI.Dapper\LibraryAPI.Dapper.csproj", "{53F8545E-9192-4070-A65D-159DFC9D3969}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAPI.AppHost", "LibraryAPI.AppHost\LibraryAPI.AppHost.csproj", "{BD0525CC-3DB1-467C-9B8B-F6E2042946A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryAPI.ServiceDefaults", "LibraryAPI.ServiceDefaults\LibraryAPI.ServiceDefaults.csproj", "{B72AC77E-67DB-483E-B77E-F05FB6DB1462}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{53F8545E-9192-4070-A65D-159DFC9D3969}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F8545E-9192-4070-A65D-159DFC9D3969}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F8545E-9192-4070-A65D-159DFC9D3969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0525CC-3DB1-467C-9B8B-F6E2042946A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0525CC-3DB1-467C-9B8B-F6E2042946A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0525CC-3DB1-467C-9B8B-F6E2042946A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0525CC-3DB1-467C-9B8B-F6E2042946A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72AC77E-67DB-483E-B77E-F05FB6DB1462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72AC77E-67DB-483E-B77E-F05FB6DB1462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72AC77E-67DB-483E-B77E-F05FB6DB1462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72AC77E-67DB-483E-B77E-F05FB6DB1462}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
