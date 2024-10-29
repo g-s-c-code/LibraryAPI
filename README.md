@@ -1,6 +1,6 @@
 # LibraryAPI
 
-This repository contains a solution demonstrating two different approaches for building a RESTful API: one using Entity Framework Core and the other using Dapper. Both projects are fully functional and can be used interchangeably depending on your preference. Each project is configured with Swagger for API documentation and testing, and they function independently of one another.
+This repository contains a solution demonstrating two approaches for building a RESTful API: one using Entity Framework Core and the other using Dapper. Both projects are fully functional, interchangeable, and configured with Swagger for API documentation and testing. Each project functions independently, allowing users to select based on preference or requirements. Both projects also utilize .NET Aspire for orchestration and telemetry capture, enabling performance benchmarking between the two implementations.
 
 ## Projects
 
