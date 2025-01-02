@@ -86,11 +86,3 @@ Both projects are fully configured to run standalone and include Swagger for API
     ```
 
 6. Access Swagger UI at `http://localhost:5000/swagger` (port may vary).
-
-## Contributing
-
-Feel free to submit issues, pull requests, or suggestions to enhance the functionality and performance of these APIs.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
